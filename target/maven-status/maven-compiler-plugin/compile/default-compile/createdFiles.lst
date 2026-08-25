@@ -1,0 +1,13 @@
+com\example\approval\cli\H2TableViewer.class
+com\example\approval\model\LeaveCalendar$Leave.class
+com\example\approval\repository\H2ApprovalRepository$ScenarioRow.class
+com\example\approval\model\ApprovalStep.class
+com\example\approval\model\ApprovalScenario.class
+com\example\approval\engine\ApprovalEngine.class
+com\example\approval\model\RuleSet.class
+com\example\approval\engine\ApprovalEngine$Candidate.class
+com\example\approval\model\Organization.class
+com\example\approval\model\LeaveCalendar.class
+com\example\approval\repository\H2ApprovalRepository.class
+com\example\approval\model\Request.class
+com\example\approval\model\Employee.class
